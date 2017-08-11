@@ -583,7 +583,7 @@
 	<script src="js/jquery.js"></script>
 	<script src="js/jquery.easing.1.3.js"></script>
     <script src="js/bootstrap.min.js"></script>
-	<script src="https://maps.google.com/maps/api/js?key=AIzaSyAC9DAsJTe960bQb6yWsKBZunsEoFVH1vk&sensor=true"></script>
+	<script src="https://maps.google.com/maps/api/js"></script>
 	<script src="js/jquery.isotope.min.js"></script>
 	<script src="js/jquery.nicescroll.min.js"></script>
 	<script src="js/fancybox/jquery.fancybox.pack.js"></script>
